@@ -10,4 +10,5 @@
 | 유범용 | 2017315008 | qjadyd307 | dbqjadyd307@naver.com |
 
 ## 유범용
--dbqjadyd307@naver.com
+- dbqjadyd307@naver.com
+- 2017315008
